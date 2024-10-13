@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My name is danah
+## My name is danah
 - 👩‍🎓 I graduated from King Abdulaziz University and majored in Computer Science.
 - 🌱 I’m currently learning Full-stack development with integrify and SDA!
 - 🖥 I'm interested in web development and AI. 
