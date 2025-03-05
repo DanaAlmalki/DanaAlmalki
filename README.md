@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My name is Danah
-- 👩‍🎓 I graduated from King Abdulaziz University and majored in Computer Science.
+- 👩‍🎓 I graduated from King Abdulaziz University with a bachelor's degree in Computer Science.
 - 🌱 I’m currently working as a junior full-stack developer!
 - 🖥 I'm interested in web development and AI. 
 <!--
